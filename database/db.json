@@ -1,0 +1,38 @@
+{
+  "posts": {
+    "fulano": [
+      {
+        "title": "Minha Viagem Patagonia",
+        "body": "minha viagem para patagonia foi incrivel conheci o Parque Nacional Torres del Paine e uma geleira",
+        "likes": 17
+      },
+      {
+        "title": "Escola",
+        "body": "hoje tivemos uma apresentação sobre programação",
+        "likes": 1
+      },
+      {
+        "title": "Meu Time",
+        "body": "meu time acabou perdendo a final do campeonato muncipal",
+        "likes": 18
+      }
+    ],
+    "beltrano": [
+      {
+        "title": "Aventura no Deserto",
+        "body": "fui ao deserto do Atacama e explorei as famosas lagunas altiplânicas",
+        "likes": 25
+      },
+      {
+        "title": "Novo Projeto",
+        "body": "iniciamos um novo projeto de software para otimizar a gestão de equipes",
+        "likes": 5
+      },
+      {
+        "title": "Show de Rock",
+        "body": "assisti a um show incrível da banda XYZ no estádio da cidade",
+        "likes": 77
+      }
+    ]
+  }
+}

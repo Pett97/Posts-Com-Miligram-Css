@@ -1,0 +1,44 @@
+:root {
+  --primary-color: #E2F7FA;
+  --secondary-color: #0396A6;
+  --tertiary-color:#E1F6FA;
+}
+body{
+  background-color: #E9E0C3;
+}
+
+/* CARDS DOS POSTS */
+
+.my-card {
+  border: solid 1px;
+  border-radius: 15px;
+  border-color: var(--secondary-color);
+  background-color: white;
+  margin-top: 25px;
+}
+
+.my-button {
+  background-color: var(--secondary-color);
+}
+
+.card-body{
+  margin: 25px;
+}
+
+.my-card-background-header {
+  margin-top: 15px;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  font-weight: bold;
+}
+
+.border-teste {
+  border: solid 2px;
+  border-color: black;
+}
+
+#likes{
+  font-weight: bold;
+  color: var(--secondary-color);
+}
+
